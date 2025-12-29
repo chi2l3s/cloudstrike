@@ -1,6 +1,6 @@
 module github.com/chi2l3s/cloudstrike
 
-go 1.25.4
+go 1.23
 
 require (
 	github.com/docker/docker v27.4.1+incompatible
